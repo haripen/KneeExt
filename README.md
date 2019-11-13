@@ -14,7 +14,8 @@ Details are given in KneeExt.m
 Also available at https://www.mathworks.com/matlabcentral/fileexchange/65975-kneeext
 
 This is a simple Matlab function to solve an equation of motion for simulating the concentric knee extension model published by Sust, Schmalz & Linnenbecker (1997a) and additionally includes muscle activation (Sust et al., 1997b).
-Subject specific values of anthropometry, muscle activation, and force-velocity relationship can be manipulated to understand the effect of geometrical relations and muscle properties differing between individuals. 
+
+Subject specific values of anthropometry, muscle activation, and force-velocity relationship as well as external loads can be manipulated to understand the effect of geometrical relations and muscle properties differing between individuals. 
 
 *The original form of the function was provided by Sigrid Thaller and was revised by Harald Penasso, both, Institute of Sport Science, University of Graz, Graz, Austria. 
 
