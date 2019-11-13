@@ -1,7 +1,7 @@
 # KneeExt
 A simple Matlab function for simulating a concentric leg-press knee extension task.
 
-*Harald Penasso & Sigrid Thaller
+Harald Penasso & Sigrid Thaller*
 
 INPUT
  - Properties of the system, defining anthropometry, force-velocity relation, activation dynamics, environment and initial conditions
