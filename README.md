@@ -7,7 +7,7 @@ INPUT
  - Properties of the system, defining anthropometry, force-velocity relation, activation dynamics, environment and initial conditions
  
 OUTPUT
- - Internal and external forces and velocities, position of the leg-press sledge, the geometrical ratio and muscle activation as a finction of time
+ - Internal and external forces and velocities, position of the leg-press sledge, the geometrical ratio and muscle activation as a function of time
  
 Details are given in KneeExt.m
 
