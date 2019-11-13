@@ -17,5 +17,6 @@ The original form of the function was provided by Sigrid Thaller and was revised
 
 References:
 
-Sust, M., Schmalz, T., & Linnenbecker, S. (1997a). Relationship between distribution of muscle fibres and invariables of motion. Human Movement Science, 16(4), 533–546. 
-Sust, M., Schmalz, T., Beyer, L., Rost, R., Hansen, E., & Weiss, T. (1997b). Assessment of isometric contractions performed with maximal subjective effort: corresponding results for EEG changes and force measurements. The International Journal of Neuroscience, 92(1–2), 103–118.
+- Sust, M., Schmalz, T., & Linnenbecker, S. (1997a). Relationship between distribution of muscle fibres and invariables of motion. Human Movement Science, 16(4), 533–546.
+
+ - Sust, M., Schmalz, T., Beyer, L., Rost, R., Hansen, E., & Weiss, T. (1997b). Assessment of isometric contractions performed with maximal subjective effort: corresponding results for EEG changes and force measurements. The International Journal of Neuroscience, 92(1–2), 103–118.
