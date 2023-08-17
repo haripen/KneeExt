@@ -39,7 +39,7 @@ function [ t,F,X,V,f,v,G,A ] = KneeExt
     S  = 7;    % input ('Activation rate constant (7) [1/s]: ');
   % Environment
     m     = 95;   % input ('Moved mass (95) [kg]   : ');
-    alpha = 45;   % input ('Leg-press inclination angle (45) [deg]: ');
+    alpha = 90;   % input ('Leg-press inclination angle (45) [deg]: ');
     g     = 9.81; % input ('Gravity (9.81)  [m/s^2]: ');
   % Initial Conditions
     X0 = 0.65; % input ('Initial position (0.65) [m]: ');

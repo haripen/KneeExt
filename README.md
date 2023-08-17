@@ -1,5 +1,5 @@
 # KneeExt
-A simple Matlab function for simulating a concentric leg-press knee extension task.
+A simple Matlab and Python (converted using chatGPT 3.5) function for simulating a concentric leg-press knee extension task.
 
 Harald Penasso & Sigrid Thaller*
 
