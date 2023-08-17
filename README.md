@@ -1,6 +1,8 @@
 # KneeExt
 A simple Matlab and Python (converted using chatGPT 3.5) function for simulating a concentric leg-press knee extension task.
 
+*Note:* The Matlab function also runs in Octave either [online](https://octave-online.net) or [locally offline on a macOS](https://wiki.octave.org/Octave_for_macOS) or on [Windows](https://wiki.octave.org/Octave_for_Microsoft_Windows)
+
 Harald Penasso & Sigrid Thaller*
 
 INPUT
